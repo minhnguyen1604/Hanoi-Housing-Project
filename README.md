@@ -1,2 +1,2 @@
 # portfolio_project
-These performances are the tangible proof of my abilities.
+These performances are tangible proof of my abilities.
